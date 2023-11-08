@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "286648231344",
+    "project_id": "parkx-22f01",
+    "storage_bucket": "parkx-22f01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286648231344:android:38623d2aaf89ca35816275",
+        "android_client_info": {
+          "package_name": "com.example.carparkingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286648231344-74uu1kshrdb6nkg06r2n4tnjamvhvs2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carparkingapp",
+            "certificate_hash": "07c4265ff0f0389b3d33b37e2fe49272f17ea942"
+          }
+        },
+        {
+          "client_id": "286648231344-8g41plcb5qj1k3g6hsj31koi7ude4gg6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carparkingapp",
+            "certificate_hash": "e92fbfd8308c8fae58845588993a6730427398c2"
+          }
+        },
+        {
+          "client_id": "286648231344-ngns0b8pti33bogua8dl3gme0a74clq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ZsDag-052o15aPv6N9knRqo559yyvZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286648231344-ngns0b8pti33bogua8dl3gme0a74clq3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "286648231344-5ulcu9mmj8scir0httkd18nnts4ln8kr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.carparkingapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286648231344:android:bd91a34954e3d261816275",
+        "android_client_info": {
+          "package_name": "com.example.staff_carparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286648231344-ngns0b8pti33bogua8dl3gme0a74clq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ZsDag-052o15aPv6N9knRqo559yyvZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286648231344-ngns0b8pti33bogua8dl3gme0a74clq3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "286648231344-5ulcu9mmj8scir0httkd18nnts4ln8kr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.carparkingapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
